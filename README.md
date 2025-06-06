@@ -1,5 +1,5 @@
 
-# 109_BugsInfintus_Wanderoo
+# 109_BugsInfinitus_Wanderoo
 This is a project done within the Hackcelerate Hackathon organised by MJCET,  Hyderabad.
 The finals were to be conducted on the Microsoft IDC, Hyderabad.
 
